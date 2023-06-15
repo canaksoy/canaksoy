@@ -9,7 +9,7 @@ App and Game Developer
 * 🌍  I'm based in Turkey & Montenegro
 * 🖥️  See my portfolio at [canaksoy.com](http://canaksoy.com)
 * ✉️  You can contact me at [can@canaksoy.com](mailto:can@canaksoy.com)
-* 🚀  I'm currently working on [Vidyodan](http://vidyodan.com)
+* 🚀  I'm currently working on [Foneva](http://foneva.co)
 * 🤝  I'm open to collaborating on startups
 
 <a href="https://www.twitter.com/canaksoy" target="_blank" rel="noreferrer"><img
