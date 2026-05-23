@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 App and Game Developer
 ----------------------
 
-25+ years experience
+30+ years experience
 
 * 🌍  I'm based in Turkey & Montenegro
-* 🖥️  See my portfolio at [canaksoy.com](http://canaksoy.com)
+* 🖥️  See my portfolio at [canaksoy.com](https://canaksoy.com)
 * ✉️  You can contact me at [can@canaksoy.com](mailto:can@canaksoy.com)
 * 🤝  I'm open to collaborating on startups
 
-<a href="https://www.twitter.com/canaksoy" target="_blank" rel="noreferrer"><img
+<a href="https://x.com/canaksoy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/canaksoy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/canaksoy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/canaksoy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
